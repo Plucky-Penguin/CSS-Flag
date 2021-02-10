@@ -1,0 +1,138 @@
+
+
+
+/* IMPORTANT NOTE, I MADE THE STARS BY TAKING A PHOTO OF A STAR OFF OF THE INTERNET, AND THEN PUTTING IT INTO TWO DIFFERENT KINDS OF ROWS (THE STAR I USED IS IN MY ASSESTS FOLDER (IT WAS FAIR USE THO))*/
+
+
+
+* {
+    margin:0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+.star-stripe-1{
+    position: absolute;
+    top:51px;
+    left:100px:  
+
+} 
+
+
+.star-stripe-2{
+    position: absolute;
+    top:63px;
+    left:100px: 
+   
+} 
+
+
+.star-stripe-3{
+    position: absolute;
+    top:78px;
+    left:100px: 
+   
+} 
+
+
+.star-stripe-4{
+    position: absolute;
+    top:90px;
+    left:100px: 
+   
+} 
+
+
+.star-stripe-5{
+    position: absolute;
+    top:105px;
+    left:100px: 
+   
+} 
+
+
+.star-stripe-6{
+    position: absolute;
+    top:120px;
+    left:100px: 
+   
+} 
+
+
+.star-stripe-7{
+    position: absolute;
+    top:135px;
+    left:100px: 
+   
+} 
+
+
+.star-stripe-8{
+    position: absolute;
+    top:148px;
+    left:100px: 
+   
+} 
+
+
+.star-stripe-9{
+    position: absolute;
+    top:162px;
+    left:100px: 
+   
+} 
+
+
+
+
+
+
+
+.blue-square{
+    float: left;
+    width: 155px; 
+}
+
+
+.red-bar{
+    background-color: red;
+}
+
+
+.white-bar{
+    background-color: white;
+}
+
+
+.blue-bar{
+    background-color: blue;
+}
+
+
+
+
+
+
+
+.top-bars{
+    float: left;
+    width: 295px; 
+}
+
+
+.bottom-half{
+    float: none;
+    width: 450px;
+}
+
+.bottom-bars{
+    float: none;
+}
+
+
+
